@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full-stack Developer with Ruby on rails and Angular experienced
+curently working on Personal ai Project called Aira
